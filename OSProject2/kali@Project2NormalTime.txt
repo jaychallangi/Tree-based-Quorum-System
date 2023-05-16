@@ -1,0 +1,277 @@
+When wait time and request time are as stated as in the project document
+
+{dc20:~/OSProject2} java S0/S0
+Starting
+ENTERING CLIENT1 2023-04-03T03:50:02.892Z
+CLIENT1 exchanged 8 messages and spent 8592 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:02.897Z
+CLIENT2 exchanged 8 messages and spent 6494 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:02.905Z
+CLIENT3 exchanged 8 messages and spent 4349 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:02.909Z
+CLIENT4 exchanged 8 messages and spent 2197 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:02.915Z
+CLIENT5 exchanged 8 messages and spent 127 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:02.923Z
+CLIENT1 exchanged 8 messages and spent 21 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:02.926Z
+CLIENT2 exchanged 8 messages and spent 16 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:02.932Z
+CLIENT3 exchanged 8 messages and spent 15 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:02.937Z
+CLIENT4 exchanged 8 messages and spent 17 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:02.944Z
+CLIENT5 exchanged 8 messages and spent 17 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:02.966Z
+CLIENT1 exchanged 8 messages and spent 31 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:02.970Z
+CLIENT2 exchanged 8 messages and spent 31 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:02.978Z
+CLIENT3 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:02.983Z
+CLIENT4 exchanged 8 messages and spent 32 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:02.989Z
+CLIENT5 exchanged 8 messages and spent 31 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:03.011Z
+CLIENT1 exchanged 8 messages and spent 31 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:03.014Z
+CLIENT2 exchanged 8 messages and spent 35 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:03.022Z
+CLIENT3 exchanged 8 messages and spent 31 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:03.027Z
+CLIENT4 exchanged 8 messages and spent 32 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:03.033Z
+CLIENT5 exchanged 8 messages and spent 35 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:03.054Z
+CLIENT1 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:03.059Z
+CLIENT2 exchanged 8 messages and spent 34 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:03.071Z
+CLIENT3 exchanged 8 messages and spent 39 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:03.074Z
+CLIENT4 exchanged 8 messages and spent 35 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:03.082Z
+CLIENT5 exchanged 8 messages and spent 39 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:03.098Z
+CLIENT1 exchanged 8 messages and spent 30 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:03.104Z
+CLIENT2 exchanged 8 messages and spent 31 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:03.115Z
+CLIENT3 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:03.119Z
+CLIENT4 exchanged 8 messages and spent 35 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:03.127Z
+CLIENT5 exchanged 8 messages and spent 32 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:03.142Z
+CLIENT1 exchanged 8 messages and spent 31 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:03.148Z
+CLIENT2 exchanged 8 messages and spent 34 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:03.159Z
+CLIENT3 exchanged 8 messages and spent 34 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:03.163Z
+CLIENT4 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:03.172Z
+CLIENT5 exchanged 8 messages and spent 37 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:03.186Z
+CLIENT1 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:03.193Z
+CLIENT2 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:03.204Z
+CLIENT3 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:03.207Z
+CLIENT4 exchanged 8 messages and spent 31 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:03.216Z
+CLIENT5 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:03.233Z
+CLIENT1 exchanged 8 messages and spent 37 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:03.237Z
+CLIENT2 exchanged 8 messages and spent 34 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:03.248Z
+CLIENT3 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:03.258Z
+CLIENT4 exchanged 8 messages and spent 43 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:03.265Z
+CLIENT5 exchanged 8 messages and spent 37 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:03.278Z
+CLIENT1 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:03.281Z
+CLIENT2 exchanged 8 messages and spent 35 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:03.294Z
+CLIENT3 exchanged 8 messages and spent 36 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:03.304Z
+CLIENT4 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:03.311Z
+CLIENT5 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:03.322Z
+CLIENT1 exchanged 8 messages and spent 34 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:03.325Z
+CLIENT2 exchanged 8 messages and spent 36 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:03.338Z
+CLIENT3 exchanged 8 messages and spent 35 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:03.350Z
+CLIENT4 exchanged 8 messages and spent 38 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:03.355Z
+CLIENT5 exchanged 8 messages and spent 34 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:03.366Z
+CLIENT1 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:03.371Z
+CLIENT2 exchanged 8 messages and spent 38 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:03.386Z
+CLIENT3 exchanged 8 messages and spent 38 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:03.395Z
+CLIENT4 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:03.401Z
+CLIENT5 exchanged 8 messages and spent 35 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:03.410Z
+CLIENT1 exchanged 8 messages and spent 35 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:03.415Z
+CLIENT2 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:03.430Z
+CLIENT3 exchanged 8 messages and spent 31 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:03.439Z
+CLIENT4 exchanged 8 messages and spent 34 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:03.444Z
+CLIENT5 exchanged 8 messages and spent 35 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:03.454Z
+CLIENT1 exchanged 8 messages and spent 32 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:03.459Z
+CLIENT2 exchanged 8 messages and spent 35 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:03.476Z
+CLIENT3 exchanged 8 messages and spent 35 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:03.483Z
+CLIENT4 exchanged 8 messages and spent 31 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:03.489Z
+CLIENT5 exchanged 8 messages and spent 36 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:03.498Z
+CLIENT1 exchanged 8 messages and spent 30 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:03.503Z
+CLIENT2 exchanged 8 messages and spent 34 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:03.521Z
+CLIENT3 exchanged 8 messages and spent 31 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:03.528Z
+CLIENT4 exchanged 8 messages and spent 32 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:03.534Z
+CLIENT5 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:03.542Z
+CLIENT1 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:03.547Z
+CLIENT2 exchanged 8 messages and spent 35 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:03.565Z
+CLIENT3 exchanged 8 messages and spent 31 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:03.572Z
+CLIENT4 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:03.578Z
+CLIENT5 exchanged 8 messages and spent 30 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:03.585Z
+CLIENT1 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:03.591Z
+CLIENT2 exchanged 8 messages and spent 34 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:03.610Z
+CLIENT3 exchanged 8 messages and spent 32 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:03.616Z
+CLIENT4 exchanged 8 messages and spent 32 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:03.622Z
+CLIENT5 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:03.629Z
+CLIENT1 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:03.635Z
+CLIENT2 exchanged 8 messages and spent 33 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:03.658Z
+CLIENT3 exchanged 8 messages and spent 36 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:03.660Z
+CLIENT4 exchanged 8 messages and spent 35 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:03.672Z
+CLIENT5 exchanged 8 messages and spent 41 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:03.680Z
+CLIENT1 exchanged 8 messages and spent 42 milliseconds trying to enter the critical section.
+ENTERING CLIENT2 2023-04-03T03:50:03.684Z
+CLIENT2 exchanged 8 messages and spent 37 milliseconds trying to enter the critical section.
+ENTERING CLIENT3 2023-04-03T03:50:03.701Z
+CLIENT3 exchanged 8 messages and spent 34 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:03.705Z
+CLIENT4 exchanged 8 messages and spent 36 milliseconds trying to enter the critical section.
+ENTERING CLIENT5 2023-04-03T03:50:03.715Z
+CLIENT5 exchanged 8 messages and spent 34 milliseconds trying to enter the critical section.
+ENTERING CLIENT1 2023-04-03T03:50:03.724Z
+CLIENT1 exchanged 8 messages and spent 31 milliseconds trying to enter the critical section.
+CLIENT1's Completion:
+SERVER1 sent 98 messages and received 199 messages.
+SERVER2 sent 4 messages and received 104 messages.
+SERVER3 sent 288 messages and received 387 messages.
+SERVER4 sent 1 messages and received 103 messages.
+SERVER5 sent 2 messages and received 101 messages.
+SERVER6 sent 96 messages and received 197 messages.
+SERVER7 sent 1 messages and received 101 messages.
+CLIENT1 sent 166 messages and received 20 messages.
+CLIENT2 sent 159 messages and received 19 messages.
+CLIENT3 sent 159 messages and received 19 messages.
+CLIENT4 sent 159 messages and received 19 messages.
+CLIENT5 sent 159 messages and received 19 messages.
+
+
+ENTERING CLIENT2 2023-04-03T03:50:03.728Z
+CLIENT2 exchanged 8 messages and spent 30 milliseconds trying to enter the critical section.
+CLIENT2's Completion:
+SERVER1 sent 99 messages and received 200 messages.
+SERVER2 sent 4 messages and received 105 messages.
+SERVER3 sent 291 messages and received 391 messages.
+SERVER4 sent 1 messages and received 103 messages.
+SERVER5 sent 2 messages and received 101 messages.
+SERVER6 sent 97 messages and received 198 messages.
+SERVER7 sent 1 messages and received 102 messages.
+CLIENT1 sent 166 messages and received 20 messages.
+CLIENT2 sent 166 messages and received 20 messages.
+CLIENT3 sent 159 messages and received 19 messages.
+CLIENT4 sent 159 messages and received 19 messages.
+CLIENT5 sent 159 messages and received 19 messages.
+
+
+ENTERING CLIENT3 2023-04-03T03:50:03.745Z
+CLIENT3 exchanged 8 messages and spent 32 milliseconds trying to enter the critical section.
+ENTERING CLIENT4 2023-04-03T03:50:03.750Z
+CLIENT4 exchanged 8 messages and spent 32 milliseconds trying to enter the critical section.
+CLIENT3's Completion:
+SERVER1 sent 101 messages and received 204 messages.
+SERVER2 sent 4 messages and received 106 messages.
+SERVER3 sent 297 messages and received 398 messages.
+SERVER4 sent 1 messages and received 105 messages.
+SERVER5 sent 2 messages and received 103 messages.
+SERVER6 sent 99 messages and received 202 messages.
+SERVER7 sent 1 messages and received 103 messages.
+CLIENT1 sent 166 messages and received 20 messages.
+CLIENT2 sent 166 messages and received 20 messages.
+CLIENT3 sent 166 messages and received 20 messages.
+CLIENT4 sent 159 messages and received 20 messages.
+CLIENT5 sent 159 messages and received 19 messages.
+
+
+CLIENT4's Completion:
+ENTERING CLIENT5 2023-04-03T03:50:03.759Z
+CLIENT5 exchanged 8 messages and spent 35 milliseconds trying to enter the critical section.
+SERVER1 sent 102 messages and received 206 messages.
+SERVER2 sent 4 messages and received 107 messages.
+SERVER3 sent 300 messages and received 402 messages.
+SERVER4 sent 1 messages and received 106 messages.
+SERVER5 sent 2 messages and received 104 messages.
+SERVER6 sent 100 messages and received 204 messages.
+SERVER7 sent 1 messages and received 104 messages.
+CLIENT1 sent 166 messages and received 20 messages.
+CLIENT2 sent 166 messages and received 20 messages.
+CLIENT3 sent 166 messages and received 20 messages.
+CLIENT4 sent 166 messages and received 20 messages.
+CLIENT5 sent 159 messages and received 20 messages.
+
+
+CLIENT5's Completion:
+SERVER1 sent 102 messages and received 207 messages.
+SERVER2 sent 4 messages and received 108 messages.
+SERVER3 sent 300 messages and received 403 messages.
+SERVER4 sent 1 messages and received 107 messages.
+SERVER5 sent 2 messages and received 105 messages.
+SERVER6 sent 100 messages and received 205 messages.
+SERVER7 sent 1 messages and received 105 messages.
+CLIENT1 sent 166 messages and received 20 messages.
+CLIENT2 sent 166 messages and received 20 messages.
+CLIENT3 sent 166 messages and received 20 messages.
+CLIENT4 sent 166 messages and received 20 messages.
+CLIENT5 sent 166 messages and received 20 messages.
